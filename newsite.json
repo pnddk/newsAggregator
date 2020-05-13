@@ -1,0 +1,38 @@
+{
+  "reutersca": {
+    "link": "https://ca.reuters.com"
+  },
+  "reutersworld": {
+    "link": "https://reuters.com"
+  },
+  "themoscowtimes": {
+    "rss": "https://www.themoscowtimes.com/page/rss",
+    "link": "https://www.themoscowtimes.com"
+  },
+  "bbc": {
+    "rss": "http://feeds.bbci.co.uk/news/rss.xml",
+    "link": "http://www.bbc.com/"
+  },
+  "cp24": {
+    "rss": "https://www.cp24.com/?format=rss",
+    "link": "https://www.cp24.com"
+  },
+  "theguardian": {
+    "rss": "https://www.theguardian.com/uk/rss",
+    "link": "https://www.theguardian.com/international"
+  },
+  "aljazeera": {
+    "rss": "https://www.aljazeera.com/xml/rss/all.xml",
+    "link": "http://www.aljazeera.com/"
+  },
+  "digitaljournal": {
+    "rss": "http://www.digitaljournal.com/rss/", 
+    "link": "http://www.digitaljournal.com"
+  },
+  "nbcnews": {
+    "link": "http://www.nbcnews.com/"
+  },
+  "southchinamorningpost": {
+    "rss": "https://www.scmp.com/rss",
+    "link": "https://www.scmp.com"
+}
